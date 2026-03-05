@@ -1,11 +1,3 @@
 ﻿# Web-Developemnt
-app
-components
-hooks
-lib
- facemodeldata.ts
- markdown.css
- markdiwn.ts
- methods.ts
- querry.ts
- 
+
+
